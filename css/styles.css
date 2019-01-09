@@ -1,0 +1,19 @@
+body {
+  background-image: url("../img/space.jpg");
+  background-size: cover;
+}
+#welcome {
+  font-size: 200px;
+  text-align: center;
+  color: black;
+  text-shadow: 1px 1px 20px red;
+}
+a {
+  color: white;
+}
+a:hover {
+  color: darkred;
+}
+#link {
+  text-align: center;
+}
