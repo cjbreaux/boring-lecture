@@ -19,11 +19,11 @@ a:hover {
 }
 h1.intro {
   text-align: center;
-  background: rgba(255,255,255,0.5);
   font-size: 200px;
   text-decoration: underline;
   text-shadow: 2px 2px 20px blue, 0 0 1em purple, 0 0 0.2em purple;
   border-radius: 35px;
+  margin-bottom: 0;
 }
 h2.intro {
   text-align: center;
@@ -34,4 +34,9 @@ h2.intro {
 p.intro {
   font-size: 20px;
   background: rgba(255,255,255,0.5);
+}
+#great {
+  opacity: 0.75;
+  margin-top: 0;
+  border-radius: 35px;
 }
