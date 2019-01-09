@@ -17,3 +17,21 @@ a:hover {
 #link {
   text-align: center;
 }
+h1.intro {
+  text-align: center;
+  background: rgba(255,255,255,0.5);
+  font-size: 200px;
+  text-decoration: underline;
+  text-shadow: 2px 2px 20px blue, 0 0 1em purple, 0 0 0.2em purple;
+  border-radius: 35px;
+}
+h2.intro {
+  text-align: center;
+  font-size: 50px;
+  border-radius: 35px;
+  text-shadow: 2px 2px 20px white;
+}
+p.intro {
+  font-size: 20px;
+  background: rgba(255,255,255,0.5);
+}
