@@ -33,7 +33,7 @@ h2.intro {
 }
 p.intro {
   font-size: 20px;
-  /*background: rgba(255,255,255,0.5); */
+  background: rgba(255,255,255,0.5);
 }
 #great {
   opacity: 0.75;
@@ -41,17 +41,17 @@ p.intro {
   border-radius: 35px;
 }
 
-.highlight1 {
+p.highlight1 {
   background-color: #d8d811;
   border: red solid;
 }
 
-.highlight2 {
+p.highlight2 {
   background-color: red;
   border: purple solid;
 }
 
-.highlight3 {
+p.highlight3 {
   background-color: green;
   border: lightblue solid;
 }
