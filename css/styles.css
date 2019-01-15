@@ -41,6 +41,17 @@ p.intro {
   border-radius: 35px;
 }
 
-.highlight {
+.highlight1 {
   background-color: #d8d811;
+  border: red solid;
+}
+
+.highlight2 {
+  background-color: red;
+  border: purple solid;
+}
+
+.highlight3 {
+  background-color: green;
+  border: lightblue solid;
 }
